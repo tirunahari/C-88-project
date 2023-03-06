@@ -1,0 +1,9 @@
+#myCanvas {
+    border-width: 10px;
+    background-color: green;
+    border-style: ridge;
+}
+h1 {
+
+   font-size: 40px !important; 
+}
